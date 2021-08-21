@@ -9,8 +9,8 @@ Olá! Eu sou a Ana Carolline
 
  <div>
   <a href="https://github.com/Ana-Carolline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Carolline&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Carolline&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Carolline&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Carolline&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   
    ##
