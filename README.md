@@ -1,5 +1,5 @@
 Olá! Eu sou a Ana Carolline
-- 💬 Futura Desenvolvedora Full Stack JAVA Júnior.
+- 💬 Desenvolvedora Full Stack JAVA Júnior.
 - 🌱 Atualmente estudando Java | SQL | Spring Boot | Docker | Java Script.
 - 👯 Trabalhando e construindo novos projetos e formações com a turma 29 da Generation Brasil!
 - 😄 Pronomes: Ela/She/Dela/Her.
